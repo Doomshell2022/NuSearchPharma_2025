@@ -1,0 +1,9 @@
+com/doomshell/nusearchpharma/MainApplication.java
+ com.doomshell.nusearchpharma.MainApplication
+ com.doomshell.nusearchpharma.MainApplication$1
+com/doomshell/nusearchpharma/BuildConfig.java
+ com.doomshell.nusearchpharma.BuildConfig
+com/doomshell/nusearchpharma/MainActivity.java
+ com.doomshell.nusearchpharma.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

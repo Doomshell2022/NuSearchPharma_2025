@@ -1,0 +1,4 @@
+#Thu Aug 01 15:55:46 IST 2024
+base.0=/Users/dheerndra/Documents/nusearch-rn-app-main/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes2.dex
+path.0=classes.dex

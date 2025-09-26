@@ -1,0 +1,14 @@
+com/doomshell/nusearchpharma/MainApplication.java
+ com.doomshell.nusearchpharma.MainApplication
+ com.doomshell.nusearchpharma.MainApplication$1
+com/doomshell/nusearchpharma/BuildConfig.java
+ com.doomshell.nusearchpharma.BuildConfig
+com/doomshell/nusearchpharma/MainActivity.java
+ com.doomshell.nusearchpharma.MainActivity
+com/doomshell/nusearchpharma/ReactNativeFlipper.java
+ com.doomshell.nusearchpharma.ReactNativeFlipper
+ com.doomshell.nusearchpharma.ReactNativeFlipper$1
+ com.doomshell.nusearchpharma.ReactNativeFlipper$2
+ com.doomshell.nusearchpharma.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
