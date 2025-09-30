@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624095105352",
+    "project_id": "nusearchpharma-f0e6b",
+    "storage_bucket": "nusearchpharma-f0e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624095105352:android:72405fefc2c434f2e5a37d",
+        "android_client_info": {
+          "package_name": "com.doomshell.nusearchpharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624095105352-n5btrparci0bf7e3duh9cmdebllhurv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLR1VAnxZy766XinfSkDL3FDbMFeNMBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624095105352-n5btrparci0bf7e3duh9cmdebllhurv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
