@@ -1,0 +1,22 @@
+{
+  "name": "react-native-rncryptor",
+  "version": "1.0.2",
+  "summary": "React Native RNCryptor AES 256 encryption",
+  "license": "MIT",
+  "authors": "richfisher",
+  "homepage": "https://github.com/richfisher/react-native-rncryptor-aes-256#readme",
+  "platforms": {
+    "ios": "9.0",
+    "osx": "10.14"
+  },
+  "source": {
+    "git": "https://github.com/richfisher/react-native-rncryptor-aes-256.git",
+    "tag": "v1.0.2"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

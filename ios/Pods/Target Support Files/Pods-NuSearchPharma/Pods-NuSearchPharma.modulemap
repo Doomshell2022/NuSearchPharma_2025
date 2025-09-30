@@ -1,0 +1,6 @@
+module Pods_NuSearchPharma {
+  umbrella header "Pods-NuSearchPharma-umbrella.h"
+
+  export *
+  module * { export * }
+}

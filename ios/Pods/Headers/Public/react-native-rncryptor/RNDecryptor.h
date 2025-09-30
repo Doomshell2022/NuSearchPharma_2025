@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-rncryptor/ios/RNCryptor/RNDecryptor.h
